@@ -37,7 +37,7 @@
     * in models/final_model/variables - https://drive.google.com/file/d/1WLNszn9oGpckj08JaxIp3aF2xLvTL5XJ/view?usp=sharing
 
 ## Link to App 
-http://34.75.113.48/
+http://www.deepfoodie.tech
 
 ## If you want to run the web app locally
 * Go to the deployment folder `cd deployment`
